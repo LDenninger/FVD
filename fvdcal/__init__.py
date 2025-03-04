@@ -1,1 +1,1 @@
-from .fvd_distance import FVDCalculation
+from .fvd_distance import FVDCalculation, FVDCalculation2
